@@ -1,0 +1,11 @@
+name: CMRPlugin
+main: re.cynthia.mcplugin.CMRPlugin
+version: 0.1.0
+author: Cynthia
+commands:
+  cmr:
+    description: Test
+    usage: /cmr test
+  whois:
+    description: WHOIS!!!
+    usage: /whois <domain>
